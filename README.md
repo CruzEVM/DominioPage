@@ -1,1 +1,2 @@
-# control del acelerómetro/magnetómetro LSM303C
+Sensores MEMS 
+
