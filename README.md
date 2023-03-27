@@ -1,5 +1,3 @@
-# **SENSORES MEMS**
-
 Los sensores MEMS (Micro Electro Mechanical Systems) son dispositivos pequeños que integran componentes mecánicos y eléctricos en un solo chip. Los sensores MEMS suelen ser muy pequeños y se utilizan en una amplia variedad de aplicaciones, como en la industria automotriz, aeroespacial, médica y de consumo.
 
 
