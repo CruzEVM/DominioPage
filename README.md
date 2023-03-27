@@ -11,11 +11,17 @@ Los acelerómetros MEMS son uno de los sensores MEMS más utilizados. Se utiliza
 ### *Giroscopios:* 
 Los giroscopios MEMS miden la velocidad angular y la orientación angular de un objeto. Los giroscopios MEMS se utilizan en aplicaciones como sistemas de control de vuelo en aeronaves, dispositivos de navegación en vehículos autónomos y sistemas de estabilización de imagen en cámaras.
 
+![giroscopio](img/giroscopio.jpeg)
+
 ### *Magnetómetros:* 
 Los magnetómetros MEMS miden la fuerza y la dirección del campo magnético. Los magnetómetros MEMS se utilizan en aplicaciones como brújulas digitales en dispositivos móviles, sistemas de navegación en vehículos y sistemas de detección de metales en seguridad.
 
+![magnetometro](img/magnetometro.jpeg)
+
 ### *Sensores de presión:*
  Los sensores de presión MEMS miden la presión en un fluido. Se utilizan en aplicaciones como sistemas de control de presión de neumáticos en vehículos, sistemas de control de presión de aire en edificios y sistemas de monitoreo de presión arterial en medicina.
+
+ ![presion](img/presion.jpeg)
 
 ### *Micrófonos:*
  Los micrófonos MEMS convierten la energía acústica en señales eléctricas. Se utilizan en aplicaciones como micrófonos de teléfonos móviles, micrófonos de auriculares y micrófonos de cámaras.
