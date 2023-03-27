@@ -6,6 +6,8 @@ Los sensores MEMS (Micro Electro Mechanical Systems) son dispositivos pequeños 
 ### *Acelerómetros:* 
 Los acelerómetros MEMS son uno de los sensores MEMS más utilizados. Se utilizan para medir la aceleración y la fuerza en un eje determinado. Los acelerómetros MEMS se utilizan en aplicaciones como sistemas de control de estabilidad en vehículos, dispositivos de seguimiento de actividad física en wearables y dispositivos de navegación en aviones y barcos.
 
+![acelerometro](img/acelerometro.png)
+
 ### *Giroscopios:* 
 Los giroscopios MEMS miden la velocidad angular y la orientación angular de un objeto. Los giroscopios MEMS se utilizan en aplicaciones como sistemas de control de vuelo en aeronaves, dispositivos de navegación en vehículos autónomos y sistemas de estabilización de imagen en cámaras.
 
