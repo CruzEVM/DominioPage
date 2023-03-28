@@ -26,15 +26,22 @@ Los magnetómetros MEMS miden la fuerza y la dirección del campo magnético. Lo
 ### *Micrófonos:*
  Los micrófonos MEMS convierten la energía acústica en señales eléctricas. Se utilizan en aplicaciones como micrófonos de teléfonos móviles, micrófonos de auriculares y micrófonos de cámaras.
 
+![microfono](img/microfono.jpeg)
+
 ### *Sensores de temperatura:* 
 Los sensores de temperatura MEMS miden la temperatura en una ubicación determinada. Se utilizan en aplicaciones como sistemas de control de temperatura en edificios, sistemas de control de temperatura de motores en vehículos y sistemas de monitoreo de temperatura en medicina.
+
+![temperatura](img/temperatura.jpeg)
 
 ### *Sensores de humedad:* 
 Los sensores de humedad MEMS miden la humedad en el aire. Se utilizan en aplicaciones como sistemas de control de humedad en edificios, sistemas de control de humedad en alimentos y sistemas de monitoreo de humedad en medicina.
 
+![humedad](img/humedad.jpeg)
+
 ### *Sensores de luz:* 
 Los sensores de luz MEMS miden la intensidad de la luz. Se utilizan en aplicaciones como sensores de proximidad en dispositivos móviles, sistemas de control de iluminación en edificios y sistemas de detección de luz en cámaras.
 
+![luz](img/luz.jpeg)
 
 ## **Tecnología de fabricación**
 Los sensores MEMS se fabrican mediante procesos de microfabricación que utilizan técnicas de grabado químico y deposición de materiales para crear estructuras mecánicas en un sustrato de silicio. Los sensores MEMS también pueden incluir componentes electrónicos, como transistores y circuitos integrados, que se fabrican utilizando técnicas similares.
